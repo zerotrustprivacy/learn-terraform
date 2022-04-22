@@ -16,6 +16,6 @@ This is the process that I started when learning <b>Terraform</b>.
  <li>Initialize by using <b><i>terraform init</b></i></li>
  <li>It will ask you if you want to perform the actions. Select <b>YES<b></li>
  <li><b><i>terraform apply</b></i>
-   <p>[20220421-153620.jpg](https://postimg.cc/8snnXVcQ)</p>
+   <p>[![20220421-153620.jpg](https://i.postimg.cc/Ghcw2L12/20220421-153620.jpg)](https://postimg.cc/8snnXVcQ)</p>
   <li>You can type <b><i>docker ps</b></i> to verify</li>
  </p>
