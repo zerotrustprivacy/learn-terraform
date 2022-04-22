@@ -16,6 +16,6 @@ This is the process that I started when learning <b>Terraform</b>.
  <li>Initialize by using <b><i>terraform init</b></i></li>
  <li>It will ask you if you want to perform the actions. Select <b>YES<b></li>
  <li><b><i>terraform apply</b></i>
+   <a href='https://postimg.cc/8snnXVcQ' target='_blank'><img src='https://i.postimg.cc/8snnXVcQ/20220421-153620.jpg' border='0' alt='20220421-153620'/></a>
  <li>You can type <b><i>docker ps</b></i> to verify</li>
  </p>
-<a href='https://postimg.cc/8snnXVcQ' target='_blank'><img src='https://i.postimg.cc/8snnXVcQ/20220421-153620.jpg' border='0' alt='20220421-153620'/></a>
