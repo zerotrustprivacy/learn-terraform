@@ -18,5 +18,4 @@ This is the process that I started when learning <b>Terraform</b>.
  <li><b><i>terraform apply</b></i>
  <li>You can type <b><i>docker ps</b></i> to verify</li>
  </p>
-[![20220421-153620.jpg](https://i.postimg.cc/Ghcw2L12/20220421-153620.jpg)](https://postimg.cc/8snnXVcQ)
 <a href='https://postimg.cc/8snnXVcQ' target='_blank'><img src='https://i.postimg.cc/8snnXVcQ/20220421-153620.jpg' border='0' alt='20220421-153620'/></a>
