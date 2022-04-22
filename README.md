@@ -15,7 +15,7 @@ This is the process that I started when learning <b>Terraform</b>.
  <li>Now open up VS code and create a configuration file. You can use the file that I created (<b>main.tf</b>)</li>
  <li>Initialize by using <b><i>terraform init</b></i></li>
  <li>It will ask you if you want to perform the actions. Select <b>YES<b></li>
+   <p><a href='https://postimg.cc/8snnXVcQ' target='_blank'><img src='https://i.postimg.cc/8snnXVcQ/20220421-153620.jpg' border='0' alt='20220421-153620'/></a></p>
  <li><b><i>terraform apply</b></i>
-  <p> <a href='https://postimg.cc/8snnXVcQ' target='_blank'><img src='https://i.postimg.cc/8snnXVcQ/20220421-153620.jpg' border='0' alt='20220421-153620'/></a></p>
  <li>You can type <b><i>docker ps</b></i> to verify</li>
  </p>
