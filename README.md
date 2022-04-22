@@ -4,7 +4,7 @@ This is the process that I started when learning <b>Terraform</b>.
 <p>I am going to be using a Windows machine throughout this process but it is still great from Mac</p>
 <p> The first step was to download Terraform onto my system using the instructions from the Hashicorp website</p>
 <p>This link(https://www.terraform.io/downloads) takes you directly to the site and from there you can easily follow the steps for downloading Terraform</p>
-<p>You're also going to need to install DOCKER
+<p>You're also going to need to install <b>DOCKER</b> from the Docker website (https://docs.docker.com/desktop/windows/install/) Docker allows you to run a server in less than a minute. If you're using Windows 10, it will probably prompt you to update or install <b>WSL2</b>.</p>
 Note: PowerShell and VS Code are also good tools to have downloaded as well.
 
  <ol>
